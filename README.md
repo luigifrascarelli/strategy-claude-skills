@@ -1,2 +1,2 @@
-# 🧠 AI Demo Strategy
-Public artifacts from my demo strategy &amp; AI framework: vendor scoring models, SE survey design, and AI tooling governance.
+# 🛠️ Claude Code Skills 
+Reusable Claude Code skill library for Salesforce SE organizations. Objection handling, demo building, and more.
